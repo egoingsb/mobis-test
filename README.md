@@ -3,7 +3,6 @@
 # 버전 관리란?
 
 # git이란?
-git, tool , ESSENTIAL TOOL
 나중에 통합하여 관리할수 있습니다.
 
 
