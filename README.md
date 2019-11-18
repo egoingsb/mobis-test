@@ -8,7 +8,8 @@ git은 분산 버전 관리 툴입니다. best softwrare tool , ESSENTIAL TOOL
 
 # 버전을 만드는 방법
 ```
-git add filename; git commit -am "commit message";
+git add filename; 
+git commit -am "commit message";
 ```
 # 버전을 보는 방법 
 
